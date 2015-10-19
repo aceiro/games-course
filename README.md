@@ -3,13 +3,10 @@
 
 ### Introdução
 
-O desenvolvimento de games para web envolve um conjunto de tecnologias específicas. Dentre elas destacam-se:
-- HTML5
-- CSS
-- JavaScript
-
-Além dissso, é grande a variedade de frameworks de desenvolvimento existentes, sobretudo para minimizar a complexidade
-inerente ao desenvolvimento inicial. Diante desse cenário, este mini-curso visa apresentar uma visão geral sobre o desenvolvimento
+O desenvolvimento de games para web envolve um conjunto de tecnologias específicas. Dentre elas destacam-se, **HTML5/CSS/JavaScript**.
+Além dissso, é grande a variedade de *frameworks* de desenvolvimento existentes, sobretudo para minimizar a complexidade
+inerente ao desenvolvimento inicial, desde a modelagem de sistemas físicos complexos até o tratamento e gerenciamento de 
+objetos e eventos gráficos em HTML5. Diante desse cenário, este mini-curso visa apresentar uma visão geral sobre o desenvolvimento
 de games para web. Para isso, serão apresentados os seguintes pontos ao longo do mini-curo:
 - X
 - Y
