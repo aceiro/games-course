@@ -1,7 +1,9 @@
 # Mini-curso de Desenvolvimento de Games para Web com HTML5, CSS e JavaScript
+-
 
 
 ### Introdução
+-
 
 O desenvolvimento de games para web envolve um conjunto de tecnologias específicas. Dentre elas destacam-se: **HTML5, CSS e JavaScript**.
 Além dissso, é grande a variedade de *frameworks* de desenvolvimento existentes, sobretudo para minimizar a complexidade
@@ -19,8 +21,10 @@ de games para web. Para isso, serão apresentados os seguintes pontos ao longo d
 Para maiores informações acessar o conteúdo dos slides disponível em [Apresentacao] (http://x.y.z).
 
 ### Exemplos
+-
 
 ### Referências
+-
 
 Aditya Ravi Shankar. 2012. *Pro Html5 Games (1st ed.)*. Apress, Berkely, CA, USA. 
 
@@ -28,11 +32,10 @@ Peter Lubbers, Brian Albers, Ric Smith, and Frank Salim. 2010. *Pro Html5 Progra
 
 Chris Storm. 2013. *3D Game Programming for Kids: Create Interactive Worlds with JavaScript (Pragmatic Programmers) (1st ed.)*. Pragmatic Bookshelf.
 
-### Links úteis
+## Links úteis
+-
 
-## Motivação
- - 
-## Frameworks
+### Motivação
  - [Cannon.js] (http://www.cannonjs.org/)
  - [Matter.js] (http://brm.io/matter-js/)
  - [PhysicsJS] (http://wellcaffeinated.net/PhysicsJS/)
@@ -45,6 +48,7 @@ Chris Storm. 2013. *3D Game Programming for Kids: Create Interactive Worlds with
 
 
 ### Sobre
+-
 
 Este material foi desenvolvido e inspirado pelas fontes de referênicas apresentadas. 
 Responsável Prof. Dr. Erik Aceiro Antonio, para maiores informações acessar os links abaixo:
