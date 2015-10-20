@@ -11,10 +11,13 @@ de games para web. Para isso, serão apresentados os seguintes pontos ao longo d
 - Motivação 
 - Referências básicas
 - Tecnologias para o desenvolvimento de games
+- Desktop / Dispositivos Móveis / Web 2.0
+- HTML5/CSS/JS
 - Repositórios – Git e GitHub
-- Hands-on
-- 2048 → AsserEvol
+- Frameworks
+- Exemplos e Hands-on
 - Dúvidas e Agradecimentos
+
 
 Para maiores informações acessar o conteúdo dos slides disponível em [Apresentacao] (http://x.y.z).
 
